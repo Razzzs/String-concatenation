@@ -1,0 +1,8 @@
+# String concatenation
+
+for i in range(5):
+  print('The square of ' + str(i) + ' is ' + str(i*i))
+
+#range
+for i in range(100):
+    print("I will not throw airplane papers in class")
